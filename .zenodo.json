@@ -1,0 +1,10 @@
+{
+  "title": "aida-tcre-ageing-pace: analysis scripts for transcribed cis-regulatory elements and the pace of immune ageing",
+  "upload_type": "software",
+  "description": "Analysis scripts (numbered 001-103 in execution order) for the study of transcribed cis-regulatory elements and the pace of immune ageing in the AIDA, Terekhova and CIMA cohorts.",
+  "creators": [
+    {"name": "Tongu, Yoshiyasu", "affiliation": "Japan Institute for Health Security"}
+  ],
+  "license": "MIT",
+  "keywords": ["immune ageing", "transcriptomic clock", "ageing pace", "tCRE", "5' single-cell RNA-seq"]
+}
